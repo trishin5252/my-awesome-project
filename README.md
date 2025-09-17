@@ -1,6 +1,6 @@
 
 
-- [��������� �������� �� GitHub Pages](https://trishin5252.github.io/my-awesome-project/)
+- [GitHub Pages](https://trishin5252.github.io/my-awesome-project/)
 Мой первый проект
 Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
